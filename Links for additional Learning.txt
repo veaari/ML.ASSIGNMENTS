@@ -1,0 +1,37 @@
+1. Kaggle – Offers datasets, competitions, and a community-driven approach to AI/ML learning.
+
+https://www.kaggle.com/code
+
+2. UCI Machine Learning Repository – A rich collection of datasets for experimentation.
+
+https://archive.ics.uci.edu/
+
+3. AICrowd – Hosts AI and ML competitions with real-world datasets.
+
+https://www.aicrowd.com/
+
+4. DrivenData – Provides AI/ML challenges for social impact projects.
+
+https://www.drivendata.org/
+
+5.Papers with Code – Contains AI research papers with implementations for hands-on learning.
+
+https://paperswithcode.com/
+
+6. HackerRank AI/ML Challenges – Good for practicing AI/ML problems.
+
+https://www.hackerrank.com/domains/ai/machine-learning/page/1
+
+7. LeetCode (AI/ML problems) – Some ML-related challenges for improving coding skills.
+
+https://leetcode.com/
+
+8. Analytics Vidhya- Learning resources and hackathons
+
+https://www.analyticsvidhya.com/datahack/
+
+9.Omdena – AI projects solving real-world problems in collaboration with NGOs.
+
+https://www.omdena.com/projects
+
+
